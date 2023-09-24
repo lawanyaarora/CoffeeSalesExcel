@@ -28,6 +28,6 @@ Sample Data Image:
 ![image](https://github.com/lawanyaarora/CoffeeSalesExcel/assets/88465845/c35521e1-e9af-41c0-a3c4-b9af1d140ca0)
 
 
-                                                         ----------------------------------------------
+----------------------------------------------
                                                            
                                                       
